@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.app.Swork7",
+                 "sha256_cert_fingerprints": ["61:F0:DD:03:CE:16:24:AA:E5:3F:0F:1A:F2:45:7E:CF:F5:82:22:97:AD:84:CD:6B:20:37:C5:81:3A:87:5C:8B"] }
+  }]
